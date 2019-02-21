@@ -12,22 +12,23 @@ typ je "dropbox.py ?"
 
 Hier een lijst met de commands en hun waarden:
 
-<p>status          :       Verkrijg de huidige staat van Dropbox</p>
-filestatus      :       Verkrijg de huidige synchronisatie status van de bestanden en mappen
-throttle        :       Zet een bandbreedte limiet
-help            :       Zet dit voor een command en krijg uitgebreid uitleg
-puburl          :       Verkrijg de publieke URL van een bestand in de public folder van Dropbox
-stop            :       Stopt het Dropbox proces
-start           :       Start het Dropbox proces
-update          :       Werkt de huidige Dropbox bij naar een (eventuele) nieuwere versie
-proxy           :       Zie proxy instellingen
-autostart       :       Start automatisch Dropbox met login, dit wordt alleen ondersteunt bij
-                        Ubuntu distro's momenteel
-exclude         :       Ignores / excludes mappen van synchronisatie
-lansync         :       Enables LAN sync (staat op enabled by default)
-sharelink       :       Krijg een gedeelde link van een bestand in Dropbox
-ls              :       Weergeeft alle mappen en bestanden met hun huidige synchronisatie status
 
+|Command       | Uitleg                                                                         |
+|--------------|:------------------------------------------------------------------------------:|
+|status        |  Verkrijg de huidige staat van Dropbox                                         |
+|filestatus    |  Verkrijg de huidige synchronisatie status van de bestanden en mappen          |
+|throttle      |  Zet een bandbreedte limiet                                                    |
+|help          |   Zet dit voor een command en krijg uitgebreid uitleg                          |
+|puburl        |   Verkrijg de publieke URL van een bestand in de public folder van Dropbox     |
+|start         | Start het Dropbox proces                                                       |
+|stop          |  Stopt het Dropbox proces                                                      |
+|update        |  Werkt de huidige Dropbox bij naar een (eventuele) nieuwere versie             |
+|proxy         |  Zie proxy instellingen                                                        |
+|autostart     |  Start automatisch Dropbox met login, dit wordt alleen ondersteunt bij Ubuntu distro's momenteel |
+|exclude       |  Ignores / excludes mappen van synchronisatie                                  |
+|lansync       |  Enables LAN sync (staat op enabled by default)                                |
+|sharelink     | Krijg een gedeelde link van een bestand in Dropbox                             |
+|ls            |  Weergeeft alle mappen en bestanden met hun huidige synchronisatie status      |
 
 // Extra note
 
