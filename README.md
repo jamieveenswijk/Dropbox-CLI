@@ -12,7 +12,7 @@ typ je "dropbox.py ?"
 
 Hier een lijst met de commands en hun waarden:
 
-status          :       Verkrijg de huidige staat van Dropbox
+<p>status          :       Verkrijg de huidige staat van Dropbox</p>
 filestatus      :       Verkrijg de huidige synchronisatie status van de bestanden en mappen
 throttle        :       Zet een bandbreedte limiet
 help            :       Zet dit voor een command en krijg uitgebreid uitleg
