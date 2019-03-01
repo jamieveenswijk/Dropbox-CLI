@@ -36,16 +36,16 @@ Elke command is best straightforward behalve de "exclude" command. Met de "exclu
 kun je mappen toevoegen of verwijderen van de exclude list.
 
 
-dropbox exclude add [DIRECTORY] [DIRECTORY] ... : Voegt een map toe aan de exclude list
+``dropbox exclude add [DIRECTORY] [DIRECTORY] ...`` : Voegt een map toe aan de exclude list
 
-dropbox exclude remove [DIRECTORY] [DIRECTORY] ... : Verwijderd een map uit de exclude list
+``dropbox exclude remove [DIRECTORY] [DIRECTORY] ...`` : Verwijderd een map uit de exclude list
 
 
-Voordat je de exclude command gebruikt is het verstandig om eerst "dropbox.py exclude list" te
+Voordat je de exclude command gebruikt is het verstandig om eerst ``dropbox.py exclude list`` te
 gebruiken om te zien welke mappen al aanwezig zijn in de lijst.
 
 
 als je alles wilt verwijderen van de huidige synchronisatie dan kun je de
-"dropbox.py exclude add *" command gebruiken. Doormiddel van het gebruik van een Wildcard (*)
+``dropbox.py exclude add *`` command gebruiken. Doormiddel van het gebruik van een Wildcard (*)
 kun je alles selecteren. Dit kun je ook toepassen bij andere commands.
 
